@@ -29,6 +29,7 @@ The script will make a request to the TinyURL API and retrieve the shortened URL
 You can repeat the process by running the script again and entering a new URL.
 
 ## License
-This project is licensed under the MIT License.
+
+This project is licensed under the [MIT License](LICENSE).
 
 Feel free to use and modify the code as per your needs.
